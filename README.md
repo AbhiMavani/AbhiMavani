@@ -26,5 +26,4 @@
 
 ---
 
-![Profile Image](https://avatars.githubusercontent.com/u/XXXXXXX?s=400&v=4) <!-- Add your GitHub profile picture or any relevant illustration -->
 
